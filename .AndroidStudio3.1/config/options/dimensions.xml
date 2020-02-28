@@ -1,0 +1,25 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="689" y="211" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="962" y="473" />
+    <location key="IdeErrosDialog.0.0.1920.1080@120dpi" x="515" y="342" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080@120dpi" x="660" y="269" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="320" y="24" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="560" y="311" />
+    <location key="deploy.picker.dialog.0.0.1920.1080@120dpi" x="639" y="279" />
+    <location key="AndroidCreateResourceFileDialog.0.0.1920.1080@120dpi" x="539" y="279" />
+    <location key="AndroidCreateResourceDirectoryDialog.0.0.1920.1080@120dpi" x="539" y="279" />
+    <location key="chooseDestDirectoryDialog.0.0.1920.1080@120dpi" x="729" y="295" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080@120dpi" x="720" y="178" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080@120dpi" x="626" y="229" />
+    <location key="AndroidThemeDialog.0.0.1920.1080@120dpi" x="439" y="166" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080@120dpi" x="494" y="64" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080@120dpi" x="560" y="206" />
+    <location key="GitCloneDialog.0.0.1920.1080@120dpi" x="753" y="422" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="0" height="0" />
+    <size key="GitCloneDialog.0.0.1920.1080@120dpi" width="414" height="317" />
+  </component>
+</application>
