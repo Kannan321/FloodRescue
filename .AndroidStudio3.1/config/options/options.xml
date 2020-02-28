@@ -44,7 +44,9 @@
     <property name="LOG_FILTER_HISTORY" value="" />
     <property name="MobileminApi" value="22" />
     <property name="kotlin.lastUpdateCheck" value="1582901160153" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6762861" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6888331" />
     <property name="properties.mode" value="TABLE" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
   </component>
 </application>

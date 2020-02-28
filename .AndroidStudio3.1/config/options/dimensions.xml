@@ -13,13 +13,16 @@
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080@120dpi" x="720" y="178" />
     <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080@120dpi" x="626" y="229" />
     <location key="AndroidThemeDialog.0.0.1920.1080@120dpi" x="439" y="166" />
-    <location key="CommitChangelistDialog2.0.0.1920.1080@120dpi" x="494" y="64" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080@120dpi" x="480" y="64" />
     <location key="Vcs.Push.Dialog.0.0.1920.1080@120dpi" x="560" y="206" />
     <location key="GitCloneDialog.0.0.1920.1080@120dpi" x="753" y="422" />
+    <location key="RollbackChangesDialog.0.0.1920.1080@120dpi" x="672" y="176" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="413" y="179" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="0" height="0" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="0" height="0" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="0" height="0" />
     <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="0" height="0" />
     <size key="GitCloneDialog.0.0.1920.1080@120dpi" width="414" height="317" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" width="1094" height="792" />
   </component>
 </application>
