@@ -1,9 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:orientation="vertical"
+    android:background="@drawable/floood1"
     tools:context=".registration">
 
-</android.support.constraint.ConstraintLayout>
+    <EditText
+        android:id="@+id/regname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:ems="10"
+        android:hint="Enter UserName"
+        android:inputType="none"
+        android:textColor="@color/black" />
+
+    <EditText
+        android:id="@+id/regusernammeid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:inputType="textPersonName"
+         />
+
+    <EditText
+        android:id="@+id/regpassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="none"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:hint="Enter Password"
+        />
+
+    <EditText
+        android:id="@+id/regpasswordid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/aadharno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:hint="Enter Aadhar Number"
+        android:inputType="none" />
+
+    <EditText
+        android:id="@+id/regaadharno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/regphnno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:hint="Enter Phone Number"
+        android:inputType="none" />
+
+    <EditText
+        android:id="@+id/phnno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:inputType="number"
+        android:maxLength="10" />
+
+    <EditText
+        android:id="@+id/location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:hint="Enter Your Exact Location"
+         />
+
+    <EditText
+        android:id="@+id/reglocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:maxLength="10"
+        android:inputType="textPostalAddress"/>
+
+    <Button
+        android:id="@+id/registerbtn"
+        style="?android:textAppearanceMedium"
+        android:background="@color/white"
+        android:textColor="@color/green"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/action_register"
+        android:textStyle="bold"/>
+
+
+</LinearLayout>
